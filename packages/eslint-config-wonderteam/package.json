@@ -1,6 +1,6 @@
 {
   "name": "@ap/eslint-config-wonderteam",
-  "version": "0.0.0",
+  "version": "0.0.1-alpha.0",
   "description": "> TODO: description",
   "author": "Daan van Hulst <daan.vanhulst@devolksbank.nl>",
   "homepage": "",
@@ -13,8 +13,8 @@
     "lib"
   ],
   "peerDependencies": {
-    "eslint": ">= 3",
-    "@devolksbank/codestyle": "5.0.5"
+    "@devolksbank/codestyle": "5.0.5",
+    "eslint": ">= 3"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
