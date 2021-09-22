@@ -13,8 +13,8 @@
     "lib"
   ],
   "peerDependencies": {
-    "prettier": "2.4.1",
-    "@devolksbank/codestyle": "5.0.5"
+    "@devolksbank/codestyle": "5.0.5",
+    "prettier": "2.4.1"
   },
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
