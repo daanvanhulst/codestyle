@@ -13,7 +13,6 @@
     "lib"
   ],
   "peerDependencies": {
-    "@devolksbank/codestyle": "5.0.5",
     "eslint": ">= 3"
   },
   "scripts": {

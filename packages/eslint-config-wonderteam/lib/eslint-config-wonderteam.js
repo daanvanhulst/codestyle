@@ -1,10 +1,6 @@
 'use strict';
 
 module.exports = {
-    extends:[
-        ".open-cli/codestyle/.eslintrc.json"
-    ],
-
     overrides: [
         {
             "files": [
