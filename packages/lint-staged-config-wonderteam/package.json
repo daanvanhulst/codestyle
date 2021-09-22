@@ -1,5 +1,5 @@
 {
-  "name": "@ap/lint-staged-config-wonderteam",
+  "name": "lint-staged-config-wonderteam",
   "version": "0.1.0",
   "description": "> TODO: description",
   "author": "Daan van Hulst <daan.vanhulst@devolksbank.nl>",
@@ -14,5 +14,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "a32223dfa6c899e7b2456f69970ae65118a5f8e1"
 }
